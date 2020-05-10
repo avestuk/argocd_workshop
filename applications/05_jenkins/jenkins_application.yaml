@@ -10,7 +10,7 @@ spec:
   revisionHistoryLimit: 2
 
   source:
-    repoURL: 'https://kubernetes-charts-incubator.storage.googleapis.com'
+    repoURL: 'https://kubernetes-charts.storage.googleapis.com'
     targetRevision: 1.9.17
     path: ''
     chart: jenkins
